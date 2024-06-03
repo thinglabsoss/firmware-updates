@@ -1,6 +1,6 @@
 # firmware-updates
 
-**Keep private till at least December*
+**Keep private till at least December**
 
 Firmware updates pulled from the OTA server.
 
