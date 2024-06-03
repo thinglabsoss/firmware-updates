@@ -70,6 +70,6 @@ Superbird silently starts applying the OTA and when it succeeds or fails it call
 ```
 {
    'current':'finished', # Whether or not first time setup is finished
-   'ota':'failed' # Need to dump success value
+   'ota':'failed' # 'complete' when OTA is successful
 }
 ```
