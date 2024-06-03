@@ -24,7 +24,7 @@ Superbird calls `com.spotify.superbird.ota.check_for_updates` with json:
 and subscribes to `com.spotify.superbird.ota.package_state`
 
 ## Step 2
-App replies to the `check_for_updates` call with the following json:
+If there's an update available, app replies to the `check_for_updates` call with the following json:
 ```
 {
    'result':[
