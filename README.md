@@ -73,3 +73,6 @@ Superbird silently starts applying the OTA and when it succeeds or fails it call
    'ota':'failed' # 'complete' when OTA is successful
 }
 ```
+
+# Disclaimer
+"Spotify", "Car Thing" and the Spotify logo are registered trademarks or trademarks of Spotify AB. Thing Labs is not affiliated with, endorsed by, or sponsored by Spotify AB. All other trademarks, service marks, and trade names are the property of their respective owners.
