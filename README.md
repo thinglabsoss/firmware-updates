@@ -33,7 +33,7 @@ If there's an update available, app replies to the `check_for_updates` call with
          'name':'superbird-os',
          'hash':'MD5_of_SWU',
          'url':'URL_to_SWU',
-         'critical':False,
+         'critical':False, # Puts the car thing in a special mode where it becomes non-functional until it finishes updating
          'size_bytes':SWU_size,
          'auto_updatable':True
       }
