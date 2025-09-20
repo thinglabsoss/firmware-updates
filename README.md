@@ -1,10 +1,7 @@
 # firmware-updates
+Firmware updates pulled from the Spotify OTA server while it was still up.
 
-**Keep private till at least December**
-
-Firmware updates pulled from the OTA server.
-
-Manually applying updates is annoying but doable using `swupdate-client`. Connector will have OTAs implemented at some point
+Manually applying updates is annoying but doable using `swupdate-client`.
 
 # OTA Process
 ## Step 1
